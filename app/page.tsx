@@ -76,9 +76,9 @@ export default function 主页() {
         '帮助优化快速排序算法的Python代码并分析时间复杂度',
       'Create a comparison table of marketing strategies between TikTok and Instagram Reels':
         '创建抖音和Instagram Reels营销策略的对比表',
-      'DeepSeek 671B on the Edge': 'DeepSeek 671B 边缘计算',
+      'DeepSeek 671B on the Edge': 'enencloud ai',
       'EdgeOne AI is transforming user experience and operational efficiency by performing AI computations closer to end-users, ensuring ultra-low latency and consistently high performance.':
-        'AI 助手通过智能计算为用户提供快速准确的回答，确保高效的对话体验。',
+        '高速稳定免费的deepseek 641B',
       'Available for free on ': '免费使用 ',
       'Thinking Process': '思考过程',
       Processing: '处理中',
@@ -452,7 +452,7 @@ export default function 主页() {
           {/* 移除所有 GitHub 和 EdgeOne Pages 相关按钮 */}
         </header>
 
-        {/* 修改欢迎消息 - 移除 EdgeOne 相关内容 */}
+        {/* 修改欢迎消息 - 显示 enencloud ai 和高速稳定免费的deepseek 641B */}
         <WelcomeMessage 
           show={showKeywords} 
           t={t} 
